@@ -1,4 +1,4 @@
-//fibonnaci exercise
+//fibonacci exercise
 const onSubmit = (e) => {
     e.preventDefault();
 
